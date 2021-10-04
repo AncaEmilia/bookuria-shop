@@ -1,0 +1,21 @@
+.product-img {
+    height: 400px;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.product-img {
+    margin: 10px;
+}
+.product-details {
+    margin-top: 10px;
+}
+
+
+}

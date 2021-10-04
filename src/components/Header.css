@@ -1,0 +1,20 @@
+header img {
+    width: 170px;
+    height: auto;
+    margin: 15px;
+} 
+
+header .logout:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: black;
+}
+.logare {
+    color: black;
+    font-size: 1.3rem;
+}
+
+.number {
+    color: black;
+
+}

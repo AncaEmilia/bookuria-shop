@@ -1,0 +1,204 @@
+{
+    "Aventură": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Cei trei muschetari",
+                "price": 35,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1577081467890-d407baf6fc1f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHN3b3JkfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "Alexandre Dumas",
+                "editura": "Aramis",
+                "description": "Cei trei muschetari,povesteste aventurile lui d'Artagnan, un tanar gascon sosit la Paris pentru a urma cariera militara in corpul muschetarilor ssi a prietenilor lui,Athos, Porthos si Aramis. "
+            },
+            {
+                "id": 2,
+                "name": "Aventurile lui Sherlock Holmes",
+                "price": 25,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1594024561977-4774ad2e6eae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2402&q=80",
+                "author": "SIR ARTHUR CONAN DOYLE",
+                "editura": "Gramar",
+                "description": "Aventurile lui Sherlock Holmes se numara printre cele mai reusite carti de fictiune politista. Arthur Conan Doyle face din eroul sau un excentric interesat doar de investigarea crimelor si de mistere."
+            },
+            {
+                "id": 3,
+                "name": "Robinson Crusoe",
+                "price": 40,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1512036666432-2181c1f26420?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWR2ZW50dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "DANIEL DEFOE",
+                "editura": "Gramar",
+                "description": "Acest roman de început din literatura engleză a fost scris de Daniel Defoe, iar povestea aventurilor lui Crusoe, cu toate răsturnările ei de situaţii, ne oferă o mulţime de surprize."
+            }
+        ],
+        "image": "https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "name": "Aventură",
+        "description": "Clasic, Modern, Ficțiune"
+    },
+    "Mister": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Cei patru mari",
+                "price": 37,
+                "currency": "LEI",
+                "image": "https://i.pinimg.com/originals/6a/9c/f0/6a9cf0621ed3b38d3933877f92557e12.jpg",
+                "author": "AGATHA CHRISTIE",
+                "editura": "Litera",
+                "description": "Hercule Poirot pare că și-a găsit în sfârșit un adversar pe măsură: un cartel criminal cu puteri nelimitate, decis să cucerească întreaga lume."
+            },
+            {
+                "id": 5,
+                "name": "Dracula. Pe urmele printului nemuritor",
+                "price": 48,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1595932725125-c53e717f8d6f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZHJhY3VsYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "KERRI MANISCALCO",
+                "editura": "Leda Edge",
+                "description": "Dupa ce descopera adevarata identitate a lui Jack Spintecatorul, nonconformista Audrey Rose isi vindeca ranile sufletesti cufundandu-se in studiu pe bancile Institutului National de Criminalistica si Medicina Legala din Romania, gazduit de castelul Bran. "
+            },
+            {
+                "id": 6,
+                "name": "Casa papusii",
+                "price": 29,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1610399660797-f7f9ee684a0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+                "author": "NEIL GAIMAN",
+                "editura": "Art",
+                "description": "In cel de-al doilea volum al seriei Sandman, Morfeu trebuie sa dea de urma creaturilor care au evadat din Visare si sa-i apere de Vortexul distrugator pe toti cei care viseaza."
+            },
+            {
+                "id": 7,
+                "name": "Jocul de domino",
+                "price": 52,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/5987855/pexels-photo-5987855.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                "author": "MICHAEL CONNELLY",
+                "editura": "RAO",
+                "description": "Proaspăt ieşit la pensie, Harry Bosch nu se gândeşte decât la recondiţionarea motocicletei sale Harley-Davidson. Asta, până în clipa în care fratele său vitreg, celebrul „avocat din limuzină“ Mickey Haller, îi cere ajutorul într-un caz teribil de complicat."
+            }
+        ],
+        "image": "https://images.pexels.com/photos/4406662/pexels-photo-4406662.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "name": "Mister",
+        "description": "Horror, SF, Fantasy"
+    },
+    "Romantic": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Gradina de vara",
+                "price": 49,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1596029649364-e34beb72f09b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGdyYWRpbmF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "PAULLINA SIMONS",
+                "editura": "Epica",
+                "description": "Totul a început cu povestea de dragoste dintre Tatiana şi Alexander în Leningradul sfâşiat de război. Acum, destinul lor se împlinește în țara tuturor posibilităților – sau așa pare…"
+            },
+            {
+                "id": 9,
+                "name": "Vicious",
+                "price": 40,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1594605811310-c2b7691051c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fHJvbWFudGljfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "L. J. SHEN",
+                "editura": "Epica",
+                "description": "Se spune că dragostea și ura sunt unul și același sentiment, trăit doar în împrejurări diferite. Vicious si Emilia le traiesc pe amandoua, intr-o poveste tumultoasa si emotionanta."
+            }
+        ],
+        "image": "https://images.pexels.com/photos/4099355/pexels-photo-4099355.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "name": "Romantic",
+        "description": "Clasic, Contemporan, Poezie"
+    },
+    "Benzi desenate": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Batman #1. Conclavul bufnițelor",
+                "price": 40,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1585260701160-57910be024c5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGJhdG1hbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "SCOTT SNYDER",
+                "editura": "Grafic",
+                "description": "„Snyder ar putea fi scenaristul lui Batman definitoriu pentru generaţia noastră.“ Complex Magazine"
+            },
+            {
+                "id": 11,
+                "name": "Hiper-capitalism",
+                "price": 49,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1587270613304-4cc9ef012b92?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhdG1hbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "LARRY GONICK, TIM KASSER",
+                "editura": "RAO",
+                "description": "Larry Gonick, cel mai bine vandut caricaturist supraeducat, sia-incantat cititorii ani intregi cu relatarile sale istete, accesibile si amuzante despre orice, de la istoria universului pana la secretele matematicii."
+            }
+        ],
+        "image": "https://images.pexels.com/photos/3747505/pexels-photo-3747505.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "name": "Benzi desenate",
+        "description": "Comics, Romane ilustrate, Manga"
+    },
+    "Arta": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Enciclopedia imaginariilor din Romania",
+                "price": 210,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1566324371371-961655b26ad3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGFydGElMjByb21hbmlhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "LIVIU MALITA",
+                "editura": "Polirom",
+                "description": "Al cincilea volum al Enciclopediei imaginariilor sintetizează imaginarul și patrimoniul artistic al românilor, sub toate formele sale: pictură și sculptură, arhitectură, muzică, teatru și artele spectacolului, cinematografie și noile media."
+            },
+            {
+                "id": 13,
+                "name": "Galeria de Arta Europeana -Franceza",
+                "price": 210,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1569424758782-cba94e6165fd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZXVyb3BlYW4lMjBhcnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "OCTAVIAN BOICESCU",
+                "editura": "Muzeul National de Arta",
+                "description": "Galeria de Artă Europeană a Muzeului Naţional de Artă al României deţine cea mai bogată colecţie de picturi şi sculpturi străine din ţară, geneza sa îndelungată fiind o alternanţă de momente solare şi episoade dramatice, care urmează semnificativ traseul istoric al ultimilor 150 de ani."
+            },
+            {
+                "id": 14,
+                "name": "Mitologia explicata prin pictura",
+                "price": 140,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1587654131832-48e5cf04b47e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWl0aG9sb2d5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "GERARD DENIZEAU",
+                "editura": "RAO",
+                "description": "Lucrarea este o cronica a vremurilor imemoriale, de la crearea lumii pana la civilizatiile antice, in care descrifram tainele mitologiei greco-romane cu ajutorul picturii."
+            }
+        ],
+        "image": "https://images.pexels.com/photos/3368816/pexels-photo-3368816.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "name": "Arta",
+        "description": "Film, Design, Pictura, Muzica"
+    },
+    "Psihologie": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Psihoterapia integrativa",
+                "price": 60,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1581333100576-b73befd79a9b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHN5Y2hvdGhlcmFweXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "JANET MOURSUND, RICHARD G. ERSKINE",
+                "editura": "RAO",
+                "description": "Cartea este împărțită în trei părți: Bazele teoretice, Intervenții terapeutice și Transcrierea (o transcriere textuală, adnotată, a unei ședințe complete de terapie)."
+            },
+            {
+                "id": 16,
+                "name": "Basme terapeutice",
+                "price": 49,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cHN5Y2hvdGhlcmFweXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                "author": "SEMPRONIA FILIPOI",
+                "editura": "Asociatia de Stiinte Cognitive din Romania",
+                "description": "Această culegere de basme se înscrie într-un şir tot mai cuprinzător de cărţi utile celor ce se ocupă de îmbunătăţirea vieţii altora."
+            }
+        ],
+        "image": "https://images.pexels.com/photos/2846814/pexels-photo-2846814.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+        "name": "Psihologie",
+        "description": "Filozofie, Psihoterapie, Ego "
+    }
+}
